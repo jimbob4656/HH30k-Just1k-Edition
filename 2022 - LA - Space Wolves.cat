@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="6454-e18-28f-fbfb" name="LA -   VI: Space Wolves" revision="2036" battleScribeVersion="2.03" authorName="Mr_Dark, UrsinePatriarch" authorContact="BSData Developers Discord" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue">
   <entryLinks>
-    <entryLink id="ff53-69d9-ec0b-9caa" name="VI: Space Wolves" hidden="false" collective="false" import="false" targetId="4916-965e-8339-44f6" type="selectionEntry">
+    <entryLink id="ff53-69d9-ec0b-9caa" name="VI: Space Wolves (Wayne's Furry Gayboys)" hidden="false" collective="false" import="false" targetId="4916-965e-8339-44f6" type="selectionEntry">
       <modifiers>
         <modifier type="add" field="category" value="7b69-bf2f-4547-e83b">
           <conditions>
